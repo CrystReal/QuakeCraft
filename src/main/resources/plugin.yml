@@ -1,0 +1,6 @@
+name: QuakeCraft
+main: com.monowii.quakecraft.Plugin
+version: 1
+depend: [CRAPI]
+commands:
+  startgame:
